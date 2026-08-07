@@ -1,2 +1,2 @@
 # AI-Learning-From-Basics
-This my AI learning from basics (including Python)
+This is my AI engineering learning repository. I will start from the basics (including a Python refresher) and gradually go into the depths of AI engineering.

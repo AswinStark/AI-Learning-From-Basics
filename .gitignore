@@ -1,0 +1,17 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Virtual environments
+.venv/
+myenv/
+venv/
+env/
+ENV/
+# Secrets and local configurations
+.env
+.myenv
+.env.local
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/

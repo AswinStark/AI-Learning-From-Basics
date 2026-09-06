@@ -25,10 +25,9 @@ print(separator_line("_"))
 currencies.extend(few_other_currencies)
 print(f"\nNEW Currency list aftrer extending: {currencies}")
 print(f"Length of currency list after extending: {len(currencies)}")
+
 print(separator_line("_"))
+
 print(f"\n\nIterating List after extending:\n")
 for curr in currencies:
     print(f"Availabe currency: {curr}")
-
-#for i in range(0, currencies.__len__):
-

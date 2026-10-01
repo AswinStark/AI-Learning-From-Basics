@@ -15,3 +15,5 @@ hobby = input("Enter the hobby with rating 5: ").lower()
 
 if (hobby,5) in my_hobbies_interest:
     print(f"Hobby found with rating 5")
+else:
+    print(f"Hobby: {hobby} not found OR doesn't have rating 5")

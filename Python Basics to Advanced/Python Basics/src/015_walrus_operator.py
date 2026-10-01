@@ -18,3 +18,9 @@ if(requested_fruit := input(("Enter needed fruit: "))) in available_fruits:
     print(f"{requested_fruit} is available")
 else:
     print(f"{requested_fruit} is not available.")
+
+# Example 3
+while (fruit := input("Enter fruit: ")) not in available_fruits:
+    print(f"{fruit} is not available!")
+
+print(f'{fruit} is available')
